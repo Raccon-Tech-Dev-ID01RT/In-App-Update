@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">In-App-Update</string>
+
+
+    <string name="in_app_update_in_progress">Update in progress</string>
+    <string name="installing_in_app_update">Installing update…</string>
+    <string name="in_app_update_downloaded_restart_to_apply">Update downloaded! Restart to apply</string>
+    <string name="restart">Restart</string>
+    <string name="update_required_to_continue">Update required to continue</string>
+    <string name="update_now">Update now</string>
+</resources>
